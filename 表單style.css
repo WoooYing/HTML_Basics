@@ -1,9 +1,1 @@
-/* Attribute Selector */
-input[type="text"] {
-  color: red;
-}
 
-/* pseudo-class */
-input[type="text"]:hover {
-  color: lawngreen;
-}
